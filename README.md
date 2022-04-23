@@ -1,9 +1,13 @@
-Hi 👋 My name is Ishan Yadav ============================ Web Developer and DSA
-entusiastic --------------------------------- I love learning about tech and
-algo . * 🌍  I'm based in INDIA * ✉️  You can contact me at
-[ishany19@gmail.com](mailto:ishany19@gmail.com) * 🧠  I'm learning MERN Stack *
-🤝  I'm open to collaborating on Mern related Projects * ⚡  DUMB but
-DETERMINED
+Hi 👋 My name is Ishan Yadav 
+============================ 
+Web Developer and DSA entusiastic 
+--------------------------------- 
+I love learning about tech and  algo . 
+* 🌍  I'm based in INDIA * 
+* ✉️  You can contact me at [ishany19@gmail.com](mailto:ishany19@gmail.com) 
+* 🧠  I'm learning MERN Stack 
+* 🤝  I'm open to collaborating on Mern related Projects 
+* ⚡  DUMB but DETERMINED
 ### Skills
 <p align="left">
   <a
